@@ -1,0 +1,13 @@
+Mate;
+Peter;
+Dominik;
+Laszlo;
+Bence;
+Szilveszter;
+NMate;
+Andor;
+Zsolt;
+Adam;
+Jacint;
+Erhard;
+Kevin;

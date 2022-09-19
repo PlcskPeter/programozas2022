@@ -1,0 +1,15 @@
+C:\Users\plcsk\source\repos\gyakorlas_2022_09_07\gyakorlas_2022_09_07\bin\Debug\net6.0\gyakorlas_2022_09_07.exe
+C:\Users\plcsk\source\repos\gyakorlas_2022_09_07\gyakorlas_2022_09_07\bin\Debug\net6.0\gyakorlas_2022_09_07.deps.json
+C:\Users\plcsk\source\repos\gyakorlas_2022_09_07\gyakorlas_2022_09_07\bin\Debug\net6.0\gyakorlas_2022_09_07.runtimeconfig.json
+C:\Users\plcsk\source\repos\gyakorlas_2022_09_07\gyakorlas_2022_09_07\bin\Debug\net6.0\gyakorlas_2022_09_07.dll
+C:\Users\plcsk\source\repos\gyakorlas_2022_09_07\gyakorlas_2022_09_07\bin\Debug\net6.0\gyakorlas_2022_09_07.pdb
+C:\Users\plcsk\source\repos\gyakorlas_2022_09_07\gyakorlas_2022_09_07\obj\Debug\net6.0\gyakorlas_2022_09_07.csproj.AssemblyReference.cache
+C:\Users\plcsk\source\repos\gyakorlas_2022_09_07\gyakorlas_2022_09_07\obj\Debug\net6.0\gyakorlas_2022_09_07.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\plcsk\source\repos\gyakorlas_2022_09_07\gyakorlas_2022_09_07\obj\Debug\net6.0\gyakorlas_2022_09_07.AssemblyInfoInputs.cache
+C:\Users\plcsk\source\repos\gyakorlas_2022_09_07\gyakorlas_2022_09_07\obj\Debug\net6.0\gyakorlas_2022_09_07.AssemblyInfo.cs
+C:\Users\plcsk\source\repos\gyakorlas_2022_09_07\gyakorlas_2022_09_07\obj\Debug\net6.0\gyakorlas_2022_09_07.csproj.CoreCompileInputs.cache
+C:\Users\plcsk\source\repos\gyakorlas_2022_09_07\gyakorlas_2022_09_07\obj\Debug\net6.0\gyakorlas_2022_09_07.dll
+C:\Users\plcsk\source\repos\gyakorlas_2022_09_07\gyakorlas_2022_09_07\obj\Debug\net6.0\refint\gyakorlas_2022_09_07.dll
+C:\Users\plcsk\source\repos\gyakorlas_2022_09_07\gyakorlas_2022_09_07\obj\Debug\net6.0\gyakorlas_2022_09_07.pdb
+C:\Users\plcsk\source\repos\gyakorlas_2022_09_07\gyakorlas_2022_09_07\obj\Debug\net6.0\gyakorlas_2022_09_07.genruntimeconfig.cache
+C:\Users\plcsk\source\repos\gyakorlas_2022_09_07\gyakorlas_2022_09_07\obj\Debug\net6.0\ref\gyakorlas_2022_09_07.dll

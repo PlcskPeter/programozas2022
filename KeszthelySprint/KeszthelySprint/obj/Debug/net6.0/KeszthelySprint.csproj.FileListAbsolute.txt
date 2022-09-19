@@ -1,0 +1,15 @@
+C:\Users\plcsk\source\repos\KeszthelySprint\KeszthelySprint\bin\Debug\net6.0\KeszthelySprint.exe
+C:\Users\plcsk\source\repos\KeszthelySprint\KeszthelySprint\bin\Debug\net6.0\KeszthelySprint.deps.json
+C:\Users\plcsk\source\repos\KeszthelySprint\KeszthelySprint\bin\Debug\net6.0\KeszthelySprint.runtimeconfig.json
+C:\Users\plcsk\source\repos\KeszthelySprint\KeszthelySprint\bin\Debug\net6.0\KeszthelySprint.dll
+C:\Users\plcsk\source\repos\KeszthelySprint\KeszthelySprint\bin\Debug\net6.0\KeszthelySprint.pdb
+C:\Users\plcsk\source\repos\KeszthelySprint\KeszthelySprint\obj\Debug\net6.0\KeszthelySprint.csproj.AssemblyReference.cache
+C:\Users\plcsk\source\repos\KeszthelySprint\KeszthelySprint\obj\Debug\net6.0\KeszthelySprint.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\plcsk\source\repos\KeszthelySprint\KeszthelySprint\obj\Debug\net6.0\KeszthelySprint.AssemblyInfoInputs.cache
+C:\Users\plcsk\source\repos\KeszthelySprint\KeszthelySprint\obj\Debug\net6.0\KeszthelySprint.AssemblyInfo.cs
+C:\Users\plcsk\source\repos\KeszthelySprint\KeszthelySprint\obj\Debug\net6.0\KeszthelySprint.csproj.CoreCompileInputs.cache
+C:\Users\plcsk\source\repos\KeszthelySprint\KeszthelySprint\obj\Debug\net6.0\KeszthelySprint.dll
+C:\Users\plcsk\source\repos\KeszthelySprint\KeszthelySprint\obj\Debug\net6.0\refint\KeszthelySprint.dll
+C:\Users\plcsk\source\repos\KeszthelySprint\KeszthelySprint\obj\Debug\net6.0\KeszthelySprint.pdb
+C:\Users\plcsk\source\repos\KeszthelySprint\KeszthelySprint\obj\Debug\net6.0\KeszthelySprint.genruntimeconfig.cache
+C:\Users\plcsk\source\repos\KeszthelySprint\KeszthelySprint\obj\Debug\net6.0\ref\KeszthelySprint.dll
